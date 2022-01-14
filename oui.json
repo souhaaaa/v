@@ -1,0 +1,99 @@
+{
+  "GuideData": {
+    "AdsController": 
+      {
+        "NetworkAds": "admob",
+
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+		
+        "ImageBanner": false,
+        "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+        "ImageBannerURL" : "https://www.google.com"
+		
+      },
+
+    "items": [
+      {
+        "title": "Soccer 2022",
+        "image": "https://image.freepik.com/free-vector/play-vibrant-gradient-typography_53876-93868.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "https://www.google.com",
+        "text": "Apps for your Android.Discover the best apps to personalize your Android, get apps to improve your smartphone's performance, social apps, photos, music and more. 100% safe apps. ",
+        "isNative": false,
+		"background": "#b3ffb3"
+      },
+      {
+        "title": "Horror Old 2",
+        "image": "https://image.freepik.com/free-vector/play-vibrant-gradient-typography_53876-93868.jpg",
+		"color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Apps for your Android Discover the best apps to personalize your Android, get apps to improve your smartphone's performance, social apps, photos, music and more. 100% safe apps.",
+        "isNative": false,
+		"background": "#b3ffb3"
+      },
+      {
+        "title": "Tennis 2022 ",
+        "image": "https://image.freepik.com/free-vector/play-vibrant-gradient-typography_53876-93868.jpg",
+		"color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Apps for your Android Discover the best apps to personalize your Android, get apps to improve your smartphone's performance, social apps, photos, music and more. 100% safe apps.",
+        "isNative": false,
+		"background": "#b3ffb3"
+      },
+      {
+        "title": " Space ",
+        "image": "https://image.freepik.com/free-vector/play-vibrant-gradient-typography_53876-93868.jpg",
+		"color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Apps for your Android Discover the best apps to personalize your Android, get apps to improve your smartphone's performance, social apps, photos, music and more. 100% safe apps.",
+        "isNative": false,
+		"background": "#b3ffb3"
+      },
+      {
+        "title": "3D games",
+        "image": "https://image.freepik.com/free-vector/play-vibrant-gradient-typography_53876-93868.jpg",
+		"color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Apps for your Android Discover the best apps to personalize your Android, get apps to improve your smartphone's performance, social apps, photos, music and more. 100% safe apps.",
+        "isNative": false,
+		"background": "#b3ffb3"
+      },
+      {
+        "title": "Best Games 2022",
+        "image": "https://image.freepik.com/free-vector/play-vibrant-gradient-typography_53876-93868.jpg",
+		"color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Apps for your Android Discover the best apps to personalize your Android, get apps to improve your smartphone's performance, social apps, photos, music and more. 100% safe apps.",
+        "isNative": false,
+		"background": "#b3ffb3"
+      }
+    ]
+
+  }
+}
