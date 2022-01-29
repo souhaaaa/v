@@ -2,11 +2,13 @@
   "GuideData": {
     "AdsController": 
       {
-        "NetworkAds": "admob",
+        "NetworkAds": "unity",
 
         "BannerAdmob": "ca-app-pub-5065384539763222/2841024447",
         "InterstitialAdmob": "ca-app-pub-5065384539763222/5467187782",
         "NativeAdmob": "ca-app-pub-5065384539763222/6588697768",
+	"unityBanner": "tesssstBannerADS",
+	"unityInter": "interTestAds",
 		
         "ImageBanner": false,
         "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
