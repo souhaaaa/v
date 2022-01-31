@@ -7,8 +7,9 @@
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
         "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
-	"unityBanner": "tesssstBannerADS",
+	"GameId": "4586361",
 	"unityInter": "interTestAds",
+	"UnityTestMode": true,
 		
         "ImageBanner": false,
         "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
